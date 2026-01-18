@@ -32,9 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### H2 Database ###
-data/
-
 ### OS ###
 .DS_Store
 Thumbs.db
